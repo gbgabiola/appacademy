@@ -4,7 +4,7 @@ My Notes, Exercises, and Projects from App Academy Open Full-Stack Curriculum
 
 ## List of Courses
 
-- [ ] [Welcome To Coding](01-welcome-to-coding)
+- [x] [Welcome To Coding](01-welcome-to-coding)
 - [ ] [Full Stack Online - Intro to Programming](02-intro-to-programming)
 - [ ] [Full Stack Online - Software Engineering Foundations](03-software-engineering-foundations)
 - [ ] [Ruby](04-ruby)
