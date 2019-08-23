@@ -1,14 +1,13 @@
-# Full Stack Online - Intro to Programming
+# Full Stack Online - Intro to Programming <!-- omit in toc -->
 
-## Course Content
+## Course Content <!-- omit in toc -->
 
-- [Full Stack Online - Intro to Programming](#full-stack-online---intro-to-programming)
-  - [Course Content](#course-content)
-  - [Introduction](#introduction)
-  - [Numbers](#numbers)
-  - [Booleans](#booleans)
-  - [Strings](#strings)
-  - [Variables](#variables)
+- [Introduction](#introduction)
+- [Numbers](#numbers)
+- [Booleans](#booleans)
+- [Strings](#strings)
+- [Variables](#variables)
+- [Methods](#methods)
 
 
 ## Introduction
@@ -87,3 +86,11 @@
 
 
 ## Variables
+
+- Variables is a placeholder that can store any data.
+- the right side will evaluate first then stored it on the left side which is the variable
+- to modify a variable you need to reassign it
+- `count = count + 1` is the same as `count += 1`, it also work with other operator
+
+
+## Methods
