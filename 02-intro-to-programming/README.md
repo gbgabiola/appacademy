@@ -9,6 +9,7 @@
 - [Variables](#variables)
 - [Methods](#methods)
   - [Methods Extras](#methods-extras)
+- [Conditionals](#conditionals)
 
 
 ## Introduction
@@ -120,3 +121,15 @@
   - we place arguments in the parentheses of a method call.
   - those argument values will be assigned to the parameters when we evaluate the method.
 - **_Arguments_** are the concrete data values we pass into method calls. **_Parameters_** are the "placeholders" that we use to write a general method.
+
+
+## Conditionals
+
+- conditional allows us to run different code under different circumstances, making our code more dynamic
+- condition must be an expression that evaluates to `true` or `false` which is a **boolean**.
+- conditional starts with an `if` and end with an `end`.
+- `else` will be `true` if the first condition is `false`
+- `elsif` for additional conditions to check
+- condtional will always check the first condition if it's true it will select/get/execute it and not bother to check other conditions
+  - meaning `else` or `elsif` makes the conditions exclusive
+- return keyword belongs to the if statement, don't forget the indentation
