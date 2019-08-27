@@ -10,6 +10,7 @@
 - [Methods](#methods)
   - [Methods Extras](#methods-extras)
 - [Conditionals](#conditionals)
+- [Loops](#loops)
 
 
 ## Introduction
@@ -133,3 +134,17 @@
 - condtional will always check the first condition if it's true it will select/get/execute it and not bother to check other conditions
   - meaning `else` or `elsif` makes the conditions exclusive
 - return keyword belongs to the if statement, don't forget the indentation
+
+
+## Loops
+
+- **loops** repeat code a certain number of times in very efficient and elegant way.
+- `while` then condition which evaluates to a **boolean** `true` or `false`
+  - while the condition is true, keeps running the loop, once the condition is false, stop the loop
+  - with `while` loop you need a variable first before `while` which will be your counter for every iteration
+  - after the `while` keyword and condition, inside the body of while write the code you want to repeat
+  - lastly change the counter, increment/decrement the counter
+- a single cycle is an iteration
+- `break` statement will immediately exit the loop
+  - is a special reserved keyword in Ruby
+- `next` statement will skip to the next iteration
