@@ -1,4 +1,4 @@
-# Full Stack Online - Intro to Programming <!-- omit in toc -->
+# Intro to Programming <!-- omit in toc -->
 
 ## Course Content <!-- omit in toc -->
 
@@ -11,6 +11,7 @@
   - [Methods Extras](#methods-extras)
 - [Conditionals](#conditionals)
 - [Loops](#loops)
+- [Arrays](#arrays)
 
 
 ## Introduction
@@ -148,3 +149,16 @@
 - `break` statement will immediately exit the loop
   - is a special reserved keyword in Ruby
 - `next` statement will skip to the next iteration
+
+
+## Arrays
+
+- use square brackets `[ ]` to assign an array
+  - insert data inside an array, can store multiple types of data.
+  - `[]` means empty array
+- `namesArr.length` to see the length of an array
+- select each element in an array by index, E.g `namesArr[2]`
+  - index starts at `0`
+- `<<` shovel operation will add an element to the end of array
+- `namesArr[1] = "David"` assigned an element into an array
+- Iterating arrays is mostly the same as strings, using a `while` loop, `arr.length` and targetting each element in an array `arr[i]`
