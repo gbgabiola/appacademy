@@ -5,4 +5,4 @@
 puts "Hello World!"
 
 # Print out another message using puts below:
-puts "My name is Genesis"
+puts "Goodbye"
