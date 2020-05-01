@@ -3,7 +3,7 @@
 # Print out the result of your expressions using puts.
 # Be sure to test your work by running your code!
 
-puts 8 + 4.5
-puts 8 - 4.5
-puts 8 / 4.5
-puts 8 % 4.5
+puts 7 + 8
+puts 30 - 20
+puts 1000 / 200
+puts 20 % 3
