@@ -3,6 +3,6 @@
 # Print out the result of your expressions using puts.
 # Be sure to test your work by running your code!
 
-puts "My name is " + "Genesis" # My name is Genesis
+puts "Genesis " + "Gabiola" # Genesis Gabiola
 puts "Genesis".length # 7
-puts "Genesis"[-1] # s
+puts "Genesis"[0] # G
