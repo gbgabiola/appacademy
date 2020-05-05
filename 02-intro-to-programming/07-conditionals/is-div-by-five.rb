@@ -1,13 +1,13 @@
 # Write a method is_div_by_5(number) that takes in a number and returns the boolean true if the given number is divisible by 5, false otherwise
 
 def is_div_by_5(number)
-  # return number % 5 == 0 # one liner solution
+  # if number % 5 == 0
+  #   return true
+  # else
+  #   return false
+  # end
 
-  if number % 5 == 0
-    return true
-  else
-    return false
-  end
+  return number % 5 == 0
 end
 
 puts is_div_by_5(10) # => true
