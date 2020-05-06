@@ -2,7 +2,7 @@
 
 def factorial(num)
   product = 1 # cannot use 0 for multiplication
-  i = 1
+  i = 2 # can skip 1 just fine
 
   while i <= num
     product *= i
