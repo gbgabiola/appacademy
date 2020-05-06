@@ -4,14 +4,16 @@
 def count_a(word)
   count = 0
   i = 0
+
   while i < word.length
     char = word[i]
     # if char == "a" || char == "A"
     if char.downcase == "a"
       count += 1
     end
-  	i += 1
+    i += 1
   end
+
   return count
 end
 

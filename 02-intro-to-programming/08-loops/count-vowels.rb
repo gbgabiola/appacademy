@@ -4,6 +4,7 @@
 def count_vowels(word)
   count = 0
   i = 0
+
   while i < word.length
     char = word[i]
     if char == "a" || char == "e" || char == "i" || char == "o" || char == "u"
@@ -11,7 +12,7 @@ def count_vowels(word)
     end
     i += 1
   end
-  
+
   return count
 end
 
