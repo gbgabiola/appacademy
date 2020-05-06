@@ -17,8 +17,13 @@
   - it will let the method call evaluate to a value
 - Ruby is flexible, we can use parentheses when dealing with methods
 
-
 **Best practices**:
 
 - if a method does not expect any parameters, call the method without using parentheses
 - when calling methods that do expect parameters, call methods with parentheses, though parentheses are optional  
+
+
+## Exercises
+
+- [x] [Average Of Three](./average-of-three.rb)
+- [x] [Goodbye](./goodbye.rb)

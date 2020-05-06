@@ -18,3 +18,14 @@
   - still using numbers to hit every character in a string, and those numbers are acting as indices for the string
 - `break` statement is a special reserved keyword in Ruby which immediately exit the loop
 - `next` statement will skip to the next iteration
+
+
+## Exercises
+
+- [x] [Count E](./count-e.rb)
+- [x] [Count A](./count-e.rb)
+- [x] [Count Vowels](./count-vowels.rb)
+- [x] [Sum Nums](./sum-nums.rb)
+- [x] [Factorial](./factorial.rb)
+- [x] [Reverse](./reverse.rb)
+- [x] [Is Palindrome](./is-palindrome.rb)

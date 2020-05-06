@@ -12,3 +12,9 @@
 - `<` for less than
 - `>=` for greater than or equal to
 - `<=` for less than or equal to
+
+
+## Exercise
+
+- [x] [Numbers Exercise 1](./numbers-exercise-1.rb)
+- [x] [Numbers Exercise 2](./numbers-exercise-2.rb)

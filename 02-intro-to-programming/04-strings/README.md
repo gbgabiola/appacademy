@@ -16,3 +16,8 @@
 - `[0]` index to get the first character of string
 - indices always start to count at `0`
 - `+` operator can also use to concatenate another string: `"Hello " + "World"`
+
+
+## Exercise
+
+- [x] [Strings Exercise](./strings-exercise.rb)

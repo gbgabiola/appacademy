@@ -20,3 +20,8 @@
 | :-------: | :---: | :---: |
 | **false** | false | true  |
 | **true**  | true  | true  |
+
+
+## Exercise
+
+- [x] [Booleans Exercise](./booleans-exercise.rb)

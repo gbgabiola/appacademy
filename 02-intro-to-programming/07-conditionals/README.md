@@ -9,3 +9,13 @@
   - meaning `else` or `elsif` makes the conditions exclusive
 
 **Note**: `return` keyword belongs to the `if` statement, don't forget the indentation
+
+
+## Exercises
+
+- [x] [Is Div By Five](./is-div-by-five.rb)
+- [x] [Either Only](./either-only.rb)
+- [x] [Larger Number](./larger-number.rb)
+- [x] [Longer String](./longer-string.rb)
+- [x] [Number Check](./number-check.rb)
+- [x] [Word Check](./word-check.rb)
