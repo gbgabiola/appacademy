@@ -3,8 +3,8 @@
 
 def range(min, max)
   nums = []
-  
   i = min
+
   while i <= max
     nums << i
     i += 1

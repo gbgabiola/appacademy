@@ -2,12 +2,12 @@
 
 def select_long_words(words)
   long_words = []
-  
   i = 0
+
   while i < words.length
     word = words[i]
     if word.length > 4
-    long_words << word
+      long_words << word
     end
     i += 1
   end

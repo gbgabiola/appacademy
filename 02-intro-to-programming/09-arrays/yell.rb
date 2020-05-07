@@ -2,14 +2,16 @@
 
 def yell(words)
   yelled = []
-  
   i = 0
+
   while i < words.length
-    word = words[i]
-    yelled << word + "!"
+    # new_yell = words[i] + "!"
+    # yelled << new_yell
+
+    yelled << words[i] + "!"
     i += 1
   end
-  
+
   return yelled
 end
 

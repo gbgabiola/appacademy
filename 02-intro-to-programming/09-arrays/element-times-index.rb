@@ -2,11 +2,10 @@
 
 def element_times_index(numbers)
   result = []
-  
   i = 0
+
   while i < numbers.length
-    num = numbers[i]
-    result << num * i
+    result << numbers[i] * i
     i += 1
   end
 

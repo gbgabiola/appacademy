@@ -2,14 +2,17 @@
 
 def doubler(numbers)
   doubled_nums = []
-  
   i = 0
+
   while i < numbers.length
-    num = numbers[i]
-    doubled_nums << num * 2
+    # old_nums = numbers[i]
+    # new_nums = old_nums * 2
+    # doubled_nums << new_nums
+
+    doubled_nums << numbers[i] * 2
     i += 1
   end
-  
+
   return doubled_nums
 end
 

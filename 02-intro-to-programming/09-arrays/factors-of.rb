@@ -2,15 +2,16 @@
 
 def factors_of(num)
   factors = []
-  
   i = 1
+
   while i <= num
     if num % i == 0
       factors << i
     end
+
     i += 1
   end
-  
+
   return factors
 end
 

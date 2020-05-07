@@ -3,15 +3,15 @@
 
 def odd_range(min, max)
   odds = []
-  
-  i = num
+  i = min
+
   while i <= max
-    if i % 2 != 0 # or i % 2 == 1
+  	if i % 2 != 0 # i % 2 == 1
       odds << i
     end
     i += 1
   end
-  
+
   return odds
 end
 

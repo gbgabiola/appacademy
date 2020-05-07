@@ -3,13 +3,13 @@
 
 def first_half(array)
   new_array = []
-  
   i = 0
-  while i < (array.length / 2.0)
+
+  while i < array.length / 2.0
     new_array << array[i]
     i += 1
   end
-  
+
   return new_array
 end
 
