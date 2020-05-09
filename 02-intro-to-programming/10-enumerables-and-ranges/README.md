@@ -8,6 +8,7 @@
 - [Enumerable Methods](#enumerable-methods)
 - [Range](#range)
 - [Times](#times)
+- [Exercises](#exercises)
 
 
 ## Array Manipulation Methods
@@ -77,3 +78,15 @@
 
 - `times` iterator will take a number and execute the statements in the block the number of times
 - optionally takes an argument and indices starts at 0
+
+
+## Exercises
+
+- [x] [To Initials](./to-initials.rb)
+- [x] [First In Array](./first-in-array.rb)
+- [x] [Abbreviate Sentence](./abbreviate-sentence.rb)
+- [x] [Format Name](./format-name.rb)
+- [x] [Is Valid Name](./is-valid-name.rb)
+- [x] [Is Valid Email](./is-valid-email.rb)
+- [x] [Reverse Words](./reverse_words.rb)
+- [x] [Rotate Array](./rotate-array.rb)
