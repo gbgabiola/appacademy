@@ -11,3 +11,13 @@
   - calling an array item using index can be saved to a variable
   - double indexing also worked, E.g., `arr[1][0]` 
   - first index corresponds to the row, second index would be column of that row
+
+
+## Exercises
+
+- [x] [Combinations](./combinations.rb)
+- [x] [Opposite Count](./opposite-count.rb)
+- [x] [Two Dimensional Sum](./two-dimensional-sum.rb)
+- [x] [Two Dimensional Translate](./two-dimensional-translate.rb)
+- [x] [Array Translate](./array-translate.rb)
+- [x] [Pig Latin Word](./pig-latin-word.rb)
