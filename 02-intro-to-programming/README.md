@@ -11,4 +11,5 @@
 - [x] [Arrays](./09-arrays)
 - [x] [Enumerables and Ranges](./10-enumerables-and-ranges)
 - [x] [Nested Loops and 2D Arrays](./11-nested-loops-and-2d-arrays)
-- [ ] [Hashes](./12-hashes)
+- [x] [Hashes](./12-hashes)
+- [ ] [Advanced Problems](./13-advanced-problems)
