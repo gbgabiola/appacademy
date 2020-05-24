@@ -12,4 +12,4 @@
 - [x] [Enumerables and Ranges](./10-enumerables-and-ranges)
 - [x] [Nested Loops and 2D Arrays](./11-nested-loops-and-2d-arrays)
 - [x] [Hashes](./12-hashes)
-- [ ] [Advanced Problems](./13-advanced-problems)
+- [x] [Advanced Problems](./13-advanced-problems)
