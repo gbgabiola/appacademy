@@ -3,7 +3,7 @@
 # Print out the result of your expressions using puts.
 # Be sure to test your work by running your code!
 
-true && true
-true || false
-9 >= 6 && true
-!true || false
+puts true && true
+puts true || false
+puts 9 >= 6 && true
+puts !true || false
