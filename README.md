@@ -1,20 +1,23 @@
-# [App Academy Open](https://open.appacademy.io/)
+# [a/A Open - Software Engineering](https://my.appacademy.io/)
 
-My Notes, Exercises, and Projects from App Academy Open Full-Stack Curriculum
+My Notes, Exercises, and Projects from a/A Open - Software Engineering curriculum
+
 
 ## List of Courses
 
-- [x] [Welcome To Coding](./01-welcome-to-coding)
-- [x] [Intro to Programming](./02-intro-to-programming)
-- [ ] [Software Engineering Foundations](./03-software-engineering-foundations)
-- [ ] Ruby
-- [ ] SQL
-- [ ] Rails
-- [ ] JavaScript
+- [ ] Web Development Fundamentals
+- [ ] JavaScript Fundamentals
+- [ ] Intermediate JavaScript
+- [ ] TDD and OOP
+- [ ] Data Structures and Algorithms
+- [ ] HTML and CSS
+- [ ] Servers, APIs, and Promises
+- [ ] Frontend JavaScript
+- [ ] Express & SQL
+- [ ] Express & Sequelize
+- [ ] Web Security and Authentication
 - [ ] React
-- [ ] Full Stack Project
-- [ ] MERN Stack Curriculum
-- [ ] Full Stack Online - Job Search
-- [ ] Docker Curriculum
-- [ ] GraphQL Curriculum
-- [ ] Data Structure and Algorithms
+- [ ] Redux and Authentication
+- [ ] Python
+- [ ] Flask, SQLAlchemy, and Forms
+- [ ] Docker and Microservices
