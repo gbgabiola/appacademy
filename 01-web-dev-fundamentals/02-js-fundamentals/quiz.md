@@ -1,4 +1,12 @@
-# Quiz
+# JS Fundamentals Quiz
+
+
+## Table of Contents <!-- omit in toc -->
+
+- [Arithmetic Operators](#arithmetic-operators)
+- [Boolean Quiz](#boolean-quiz)
+- [Variables Quiz](#variables-quiz)
+
 
 ## Arithmetic Operators
 
@@ -336,4 +344,3 @@
     - [x] 24
     - [ ] 21
     - [ ] 18
-
