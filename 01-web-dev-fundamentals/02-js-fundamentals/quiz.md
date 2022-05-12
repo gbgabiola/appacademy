@@ -6,6 +6,7 @@
 - [Arithmetic Operators](#arithmetic-operators)
 - [Boolean Quiz](#boolean-quiz)
 - [Variables Quiz](#variables-quiz)
+- [Intro to Functions Quiz](#intro-to-functions-quiz)
 
 
 ## Arithmetic Operators
@@ -344,3 +345,62 @@
     - [x] 24
     - [ ] 21
     - [ ] 18
+
+
+## Intro to Functions Quiz
+
+1. In the below function "Brian" is the _______.
+
+    ```js
+    function sayHello(name) {
+      return "Hello" + name;
+    }
+
+    sayHello("Brian");
+    ```
+
+    - [ ] Parameter
+    - [x] Argument
+
+2. In the below function `num` is the _______.
+
+    ```js
+    function addTwelve(num) {
+      return 12 + num;
+    }
+
+    addTwelve(12); // => 24
+    ```
+
+    - [x] Parameter
+    - [ ] Argument
+
+3. What is the value returned by invoking `addThreeNumbers(1, 2, 3, 4)`?
+
+    ```js
+    function addThreeNumbers(num1, num2, num3) {
+      return num1 + num2 + num3;
+    }
+
+    addThreeNumbers(1, 2, 3, 4); // => ???
+    ```
+
+    - [ ] 10
+    - [ ] 12
+    - [x] 6
+    - [ ] The above code will break and an error occurs
+
+4. What is the value returned by invoking `addThreeNumbers(1, 2, 3, 4)`?
+
+    ```js
+    function addThreeNumbers(num1, num2, num3) {
+      return num1 + num2 + num3;
+    }
+
+    addThreeNumbers(1, 2); // => ???
+    ```
+
+    - [ ] 3
+    - [ ] 4
+    - [ ] 0
+    - [x] `NaN` (`Not a Number`)
