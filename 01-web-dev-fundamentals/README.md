@@ -1,6 +1,6 @@
 # Web Development Fundamentals
 
-- [x] [Getting Started at App Academy](./01-getting-started-at-app-academy/)
+- [x] [Getting Started at App Academy](./01-getting-started)
 - [ ] JavaScript Fundamentals
 - [ ] Setting Up Your Environment I
 - [ ] HTML & CSS Fundamentals
